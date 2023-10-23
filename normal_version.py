@@ -14,8 +14,8 @@ class Erdve:
         self.objektai.append(obj)
     def judit(self, dt):
         for obj in self.objektai:
-            obj.x = obj.x + obj.v.x
-            obj.y = obj.y + obj.v.y
+            obj.x = obj.x + obj.v.x*dt
+            obj.y = obj.y + obj.v.y*dt
 
 a = Objektas()
 a.v.y = 3
