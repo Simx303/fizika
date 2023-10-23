@@ -18,7 +18,7 @@ Now pseudo.py.
 ## Change planet *(Earth by default)*:
 1. Radius `r`
 2. Mass `m_zeme`
-3. Atmosphere. Anything between `# oro pasi...` and `# Kunas`
+3. Atmosphere. *([Earth](https://en.wikipedia.org/wiki/Barometric_formula) by default)* Anything between `# oro pasi...` and `# Kunas`
 
 ## Staging
 If you dont know python. not my problem. it is intuitive Tough.
@@ -29,4 +29,4 @@ Change anything near `1a pakopa..... 2a pakopa.... 3a pako.... 4a...`
 Might come
 Might not.
 
-THE MATHS
+**THE MATHS -> (FIZIKA.md)**
